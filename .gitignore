@@ -1,0 +1,6 @@
+classes/
+nbproject/
+nbbuild.xml
+*.bat
+*.class
+
